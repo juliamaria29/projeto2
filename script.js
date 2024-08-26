@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Uma tecnologia capa de respoder em formato de chat, ual ua opnião sobre isso?",
+        enunciado: "Uma tecnologia capaz de respoder em formato de chat, qual sua opnião sobre isso?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
