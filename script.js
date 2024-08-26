@@ -13,14 +13,14 @@ const perguntas = [
                 afirmacao: "afirmacao"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso é interesante!",
                 afirmacao: "afirmacao"
             }           
             
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
+        enunciado: "Uma tecnologia, chamada Inteligência Artificial (IA). Uma professora faz algumas perguntas sobre essa tecnologia. Qual atitude você toma?",
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
@@ -33,10 +33,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Ela faz um debate entre a turma para entender como foi realizada a pesquisa e escrita. Foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Como você se posiciona?",
         alternativas: [
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto:"Pessoas podem perder seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao:"afirmacao"
             },
             {
@@ -50,7 +50,7 @@ const perguntas = [
         enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
         alternativas: [
             {
-                texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto:"Criar uma imagem no bloco de notas.",
                 afirmacao:"afirmacao"
             },
             {
@@ -61,14 +61,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: " Você tem um trabalho em grupo para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
         alternativas: [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
                 afirmacao:"afirmacao"
             },
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                texto: "Escrever mudando algumas palavras.",
                 afirmacao:"afirmacao"
             }
             
